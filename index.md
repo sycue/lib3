@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## LIB3
 
-You can use the [editor on GitHub](https://github.com/sycue/lib3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+分布式知识治理协议
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+长久以来，知识分散于各类平台中，如社交网站，博客，问答网站等，对于知识的挖掘及再组织缺乏一套有效的管理手段，大量知识沉寂于角落，无法有效利用。
 
-### Markdown
+Lib3构建于Web3之上，通过对知识内容区块化并映射成NFT，借助DAO对知识进行管理。知识不再是以文章为组织单位，细粒度的知识有助于价值发现及再组织，提高了知识的流通效率。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sycue/lib3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+传统平台上，知识的互动局限于平台与用户，在Lib3中，知识可以在多方之间互动，知识的价值流是一个网状结构。
