@@ -1,4 +1,4 @@
-## Lib3
+## Lib3 Protocol
 
 分布式知识治理协议
 
